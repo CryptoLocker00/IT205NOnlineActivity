@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<title>Gallery</title>
+
+<head>
+
+<body background color = "white" bgproperties = "fixed">
+
+<h1 style = "color:#000000; font-family:OCR A Std; font-size:20px; text-align:center">Sneakeranity</h1>
+
+<nav id="main-menu">
+       <ul class="nav-bar">
+       <li class="nav-button-home"><a href="HomePage.html">Home</a></li>
+       <li class="nav-button-about"><a href="About.html">About</a></li>
+       <li class="nav-button-buynow"><a href="BuyNow1.html">Buy Now</a></li>
+       <li class="nav-button-gallery"><a href="Gallery.html">Gallery</a></li>
+       <li class="nav-button-releases"><a href="Releases.html">Releases</a></li>
+       <li class="nav-button-gallery"><a href="Subscribe.html">Subscribe</a></li>
+       
+     </ul>
+</nav>
+
+<style>
+body { font-family: OCR A Std; }
+
+#main-menu .nav-bar { list-style:none; margin-top: 40px; }
+#main-menu .nav-bar li { display:inline; padding:0 10px; }
+
+#main-menu .nav-bar li a {
+  text-decoration: none;
+  padding-left: 75px;
+  text-transform: uppercase;
+  color: #000000;
+	text-shadow: 1px 1px 1px #ccc;
+}
+</style>
+<hr>
+</hr>
+
+</style>
+</head>
+
+
+<table border = "1" cellpadding = "1" cellspacing="0" width="250" align = "center">
+	 <thead>
+	    <tr>
+		<th>
+		<body>
+
+<script type="text/javascript">
+if (document.images)
+{
+    image1 = new Image;
+    image2 = new Image;
+    image1.src = "y3boost.jpg";
+    image2.src = "Y3BoostFloral.png";
+}
+
+function chgImg(name, image)
+{
+    if (document.images)
+    {
+        document[name].src = eval(image+".src");
+    }
+}
+</script>
+
+<a href="/" onMouseOver='chgImg("enter", "image2")'
+onMouseOut='chgImg("enter", "image1")'><img name="enter"
+src="y3boost.jpg" border="0" height=150px width=250px></a>
+
+</body>
+</th>
+		   <th scope = "col"><img src="AJ4.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="y3qasa.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="AJ4kaws1.jpg" border=0 height=150px width=250px></th>
+		   
+		 </tr>
+
+	 <thead>
+	     <tr>
+		   <th scope = "col"><img src="nmdBape.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="nmdMastermind.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="UBSolebox.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="y3triplewhite.jpg" border=0 height=150px width=250px></th>
+		 </tr>
+		 
+	 <thead>
+	     <tr>
+		   <th scope = "col"><img src="y3boost1.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="yeezyv2.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="nmdr1.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="nmdPharrell.png" border=0 height=150px width=250px></th>
+		 </tr>
+		 
+	 <thead>
+	     <tr>
+		   <th scope = "col"><img src="AJ4red.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="UltraboostOG.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="y3pureboost.jpeg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="AJ6.jpg" border=0 height=150px width=250px></th>
+		 </tr>
+		 
+	 <thead>
+	     <tr>
+		   <th scope = "col"><img src="aj4und.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="nmdOG.png" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="UBChamp.jpg" border=0 height=150px width=250px></th>
+		   <th scope = "col"><img src="y3retroboost.jpeg" border=0 height=150px width=250px></th>
+		 </tr>
+	 
+		
+	
+</table>
+
+</body>
+</head>
+</html>
